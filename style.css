@@ -1,0 +1,20 @@
+/*html
+{
+background-color:#b0c4de;
+background-color:aqua;
+}*/
+h1.k{
+	background-color: #6495ed;
+}
+p.r
+{
+	background-color: red;
+}
+div{
+	background-color: #b0c4de;
+}
+body{
+	background-image:url('image/b.png');
+	background-repeat: repeat-y;
+
+}
